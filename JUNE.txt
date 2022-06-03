@@ -1,1 +1,0 @@
-Hello People, I am from Numpy Ninja.
